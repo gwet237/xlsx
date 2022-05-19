@@ -1,0 +1,9 @@
+{
+    "path" : "~/books/chap6/xlsx",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
