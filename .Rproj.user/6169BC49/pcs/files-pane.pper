@@ -1,9 +1,9 @@
 {
-    "path" : "~/books/chap6/xlsx",
-    "sortOrder" : [
+    "path": "~/books/chap6/xlsx",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
